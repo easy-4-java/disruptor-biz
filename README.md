@@ -25,7 +25,7 @@
 
 ``` xml
 <dependency>
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.easy4j</groupId>
 	<artifactId>disruptor-biz</artifactId>
 	<version>${project.version}</version>
 </dependency>
