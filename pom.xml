@@ -195,7 +195,7 @@
 					<version>${maven-jar-plugin.version}</version>
 					<configuration>
 						<encoding>${project.build.sourceEncoding}</encoding>
-						<skipIfEmpty>true</skipIfEmpty>
+						<forceCreation>true</forceCreation>
 						<archive>
 							<manifest>
 								<addDefaultImplementationEntries>true</addDefaultImplementationEntries>
