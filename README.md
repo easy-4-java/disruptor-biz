@@ -1,6 +1,8 @@
 # disruptor-biz
 
-[![Java](https://img.shields.io/badge/Java-17-orange)] [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
+[![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
 > Business-oriented event types for the LMAX Disruptor async framework: a routing
 > event base class and a high-concurrency cached clock — the foundation for async

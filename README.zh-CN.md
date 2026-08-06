@@ -1,6 +1,8 @@
 # disruptor-biz
 
-[![Java](https://img.shields.io/badge/Java-17-orange)] [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
+[![License](https://img.shields.io/badge/license-Apache%202.0-green)
 
 > 面向业务的 LMAX Disruptor 事件类型：带路由表达式的异步事件基类与高并发缓存时钟
 > ——Disruptor 应用异步事件推送 / 处理的基础。
@@ -18,8 +20,6 @@
 - [9. 测试与构建](#9-测试与构建)
 - [10. 版本与分支](#10-版本与分支)
 - [11. 贡献与许可](#11-贡献与许可)
-
-[English](./README.md) | [简体中文](./README.zh-CN.md)
 
 ## 1. 项目概述
 
