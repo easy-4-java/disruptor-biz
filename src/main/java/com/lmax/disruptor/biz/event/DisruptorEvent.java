@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018 (https://github.com/hiwepy).
+ * Copyright (c) 2018 (https://github.com/loong10k).
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
  * use this file except in compliance with the License. You may obtain a copy of
@@ -23,7 +23,7 @@ import com.lmax.disruptor.biz.util.SystemClock;
  * 
  * @className	： DisruptorEvent
  * @description	： 事件(Event) 就是通过 Disruptor 进行交换的数据类型。
- * @author 		： <a href="https://github.com/hiwepy">hiwepy</a>
+ * @author [@Loong Wan](https://github.com/loong10k)
  * @date		： 2017年4月20日 下午9:29:21
  * @version 	V1.0
  */
